@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/photo_liberary_app/static/css/main.5b54ec90.css",
+    "main.js": "/photo_liberary_app/static/js/main.630ac636.js",
+    "static/js/453.d9fcce27.chunk.js": "/photo_liberary_app/static/js/453.d9fcce27.chunk.js",
+    "index.html": "/photo_liberary_app/index.html",
+    "main.5b54ec90.css.map": "/photo_liberary_app/static/css/main.5b54ec90.css.map",
+    "main.630ac636.js.map": "/photo_liberary_app/static/js/main.630ac636.js.map",
+    "453.d9fcce27.chunk.js.map": "/photo_liberary_app/static/js/453.d9fcce27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b54ec90.css",
+    "static/js/main.630ac636.js"
+  ]
+}
