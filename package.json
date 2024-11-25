@@ -1,7 +1,7 @@
 {
   "name": "spa_photo_liberary",
   "version": "0.1.0",
-  "homepage": "https://Jayashreepatil3968.github.io/spa_photo_library",
+  "homepage": "https://jayashreepatil3968.github.io/photo_liberary_app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b main -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
