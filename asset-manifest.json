@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spa_photo_library/static/css/main.5b54ec90.css",
+    "main.js": "/spa_photo_library/static/js/main.1e2be96f.js",
+    "static/js/453.d9fcce27.chunk.js": "/spa_photo_library/static/js/453.d9fcce27.chunk.js",
+    "index.html": "/spa_photo_library/index.html",
+    "main.5b54ec90.css.map": "/spa_photo_library/static/css/main.5b54ec90.css.map",
+    "main.1e2be96f.js.map": "/spa_photo_library/static/js/main.1e2be96f.js.map",
+    "453.d9fcce27.chunk.js.map": "/spa_photo_library/static/js/453.d9fcce27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b54ec90.css",
+    "static/js/main.1e2be96f.js"
+  ]
+}
